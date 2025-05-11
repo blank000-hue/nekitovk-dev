@@ -1,0 +1,23 @@
+/* Если вы сломали сайт через файл style.css то не нойте! */
+body {font-family: Tahoma, sans-serif;}
+.button_a:hover {background-color: grey;}
+.divider {height: 20px;} /* Картинка */
+
+.button_a {
+    color: #000;
+    text-decoration: none;
+}
+.vopros {
+    background: #fbf3c3;
+    margin: 0px 5px 0px 5px;
+    padding: 5px;
+    font-weight: bold;
+    border: 1px solid #d7cf9e;
+    border-bottom: 0px;
+}
+.otvet {
+    background: #fafafa;
+    margin: 0px 5px 10px 5px;
+    padding: 5px 5px 5px 10px;
+    border: 1px solid #ddd;
+}
